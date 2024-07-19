@@ -1,0 +1,14 @@
+C:\git\DesafioCSharp1\DesafioCSharp1\bin\Debug\net8.0\DesafioCSharp1.exe
+C:\git\DesafioCSharp1\DesafioCSharp1\bin\Debug\net8.0\DesafioCSharp1.deps.json
+C:\git\DesafioCSharp1\DesafioCSharp1\bin\Debug\net8.0\DesafioCSharp1.runtimeconfig.json
+C:\git\DesafioCSharp1\DesafioCSharp1\bin\Debug\net8.0\DesafioCSharp1.dll
+C:\git\DesafioCSharp1\DesafioCSharp1\bin\Debug\net8.0\DesafioCSharp1.pdb
+C:\git\DesafioCSharp1\DesafioCSharp1\obj\Debug\net8.0\DesafioCSharp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\DesafioCSharp1\DesafioCSharp1\obj\Debug\net8.0\DesafioCSharp1.AssemblyInfoInputs.cache
+C:\git\DesafioCSharp1\DesafioCSharp1\obj\Debug\net8.0\DesafioCSharp1.AssemblyInfo.cs
+C:\git\DesafioCSharp1\DesafioCSharp1\obj\Debug\net8.0\DesafioCSharp1.csproj.CoreCompileInputs.cache
+C:\git\DesafioCSharp1\DesafioCSharp1\obj\Debug\net8.0\DesafioCSharp1.dll
+C:\git\DesafioCSharp1\DesafioCSharp1\obj\Debug\net8.0\refint\DesafioCSharp1.dll
+C:\git\DesafioCSharp1\DesafioCSharp1\obj\Debug\net8.0\DesafioCSharp1.pdb
+C:\git\DesafioCSharp1\DesafioCSharp1\obj\Debug\net8.0\DesafioCSharp1.genruntimeconfig.cache
+C:\git\DesafioCSharp1\DesafioCSharp1\obj\Debug\net8.0\ref\DesafioCSharp1.dll
